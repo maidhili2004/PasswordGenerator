@@ -1,1 +1,1 @@
-# PasswordGenerator
+A simple Python-based tool that generates strong, random passwords using uppercase, lowercase letters, numbers, and special characters. Users can specify the desired password length, and the program ensures high randomness and security by shuffling characters and using Python's random and string modules
